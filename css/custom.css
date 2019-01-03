@@ -1,5 +1,10 @@
 nav .nav-wrapper {
   background-color: #005B7F;
-  position: relative;
-  height: 100%;
+}
+
+.dropdown-content li>a {
+    color: #00B6FF;
+}
+html {
+	color: #59747F;
 }
