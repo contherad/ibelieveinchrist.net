@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>
+      <![CDATA[I Believe in Christ Podcast]]>
+    </title>
+    <description>
+      <![CDATA[A Podcast for following lessons from Come, Follow Me 2019 and News from the Church of Jesus Christ of Latter-day Saints.]]>
+    </description>
+    <author>Conrad Southworth</author>
+    <link>http://ibelieveinchrist.net/</link>
+    <itunes:author>Conrad Southworth</itunes:author>
+    <generator>RSS for Node</generator>
+    <lastBuildDate>Mon, 31 Dec 2018 22:38:48 GMT</lastBuildDate>
+    <atom:link href="http://ibelieveinchrist.net/ibelieveinchrist.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Dec 2018 22:38:48 GMT</pubDate>
+    <copyright>
+      <![CDATA[Conrad Southworth]]>
+    </copyright>
+    <language>
+      <![CDATA[en]]>
+    </language>
+    <webMaster>
+      <![CDATA[podcast@ibelieveinchrist.net (Web Master)]]>
+    </webMaster>
+    <ttl>60</ttl>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/></itunes:category>
+    <itunes:owner>
+      <itunes:name>Web Master</itunes:name>
+      <itunes:email>podcast@ibelieveinchrist.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://ibelieveinchrist.net/media/logo.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>
+        <![CDATA[Episode 01 - Genesis and Learning]]>
+      </title>
+      <itunes:author>Conrad Southworth</itunes:author>
+      <description>
+        <![CDATA[Introduction, News, The first lesson in Come, Follow Me 2019 material and Part one of Marianne Muthreich Southworth's story]]>
+      </description>
+      <link>http://ibelieveinchrist.net/episodes/E01.Genesis.and.Learning.mp3</link>
+      <guid isPermaLink="true">http://ibelieveinchrist.net/episodes/E01.Genesis.and.Learning.mp3</guid>
+      <pubDate>Mon, 31 Dec 2018 22:15:06 GMT</pubDate>
+      <enclosure url="http://ibelieveinchrist.net/episodes/E01.Genesis.and.Learning.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
