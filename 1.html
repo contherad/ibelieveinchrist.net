@@ -11,14 +11,18 @@
        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
       <script>
           $( document ).ready(function() {
-            $(".dropdown-trigger").dropdown();
             $('.sidenav').sidenav();
+            $(".dropdown-trigger").dropdown({
+              coverTrigger: false
+            });
           });
-
       </script>
     </head>
 <header>
   <ul id="dropdown1" class="dropdown-content">
+    <li><a href="1.html">Episode One</a></li>
+  </ul>
+  <ul id="dropdown1-mobile" class="dropdown-content">
     <li><a href="1.html">Episode One</a></li>
   </ul>
  <nav>
@@ -28,7 +32,7 @@
       <ul class="right hide-on-med-and-down">
         <li><a href="index.html">home</a></li>
         <li><a href="about.html">about</a></li>
-        <li><a class="dropdown-trigger" href="episodes.html" data-target="dropdown1">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a class="dropdown-trigger" href="episodes.html" data-hover="true" data-target="dropdown1">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
       </ul>
     </div>
   </nav>
@@ -36,10 +40,8 @@
   <ul class="sidenav" id="mobile-demo">
     <li><a href="index.html">home</a></li>
     <li><a href="about.html">about</a></li>
-    <li><a class="dropdown-trigger" href="episodes.html" data-target="dropdown1">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
+    <li><a class="dropdown-trigger" href="" data-hover="true" data-target="dropdown1-mobile">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
   </ul>
-
-
 </header>
     <body>
       <div class="container">

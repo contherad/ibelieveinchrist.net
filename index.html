@@ -12,7 +12,9 @@
       <script>
           $( document ).ready(function() {
             $('.sidenav').sidenav();
-            $(".dropdown-trigger").dropdown();
+            $(".dropdown-trigger").dropdown({
+              coverTrigger: false
+            });
           });
       </script>
     </head>
@@ -38,10 +40,8 @@
   <ul class="sidenav" id="mobile-demo">
     <li><a href="index.html">home</a></li>
     <li><a href="about.html">about</a></li>
-    <li><a class="dropdown-trigger" href="" data-beloworgin="true" data-hover="true" data-target="dropdown1-mobile">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
+    <li><a class="dropdown-trigger" href="" data-hover="true" data-target="dropdown1-mobile">episodes<i class="material-icons right">arrow_drop_down</i></a></li>
   </ul>
-
-
 </header>
     <body>
       <div class="row">
