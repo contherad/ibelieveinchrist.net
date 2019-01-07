@@ -22,11 +22,9 @@
 <header>
   <ul id="dropdown1" class="dropdown-content">
     <li><a href="1">Episode One</a></li>
-    <li><a href="2">Episode Two</a></li>
   </ul>
   <ul id="dropdown1-mobile" class="dropdown-content">
     <li><a href="1">Episode One</a></li>
-    <li><a href="2">Episode Two</a></li>
   </ul>
  <nav>
     <div class="nav-wrapper">
@@ -47,42 +45,10 @@
   </ul>
 </header>
     <body>
-      <div class="row">
-        <div class="col l12 center">
-          <h1>I Believe in Christ Podcast</h1>
-          <!-- <img src="media/keepcalm.jpg"> -->
-        </div>
-      </div>
-      <div class="row center">
-        <div class="col l4 s12 center">
-          <i class="large material-icons">description</i>
-          <h3>Church News</h3>
-          <p>President Nelson, the First Presidency and the Quorum of the Twelve Apostles are sustaining changes so fast, it is hard to keep up. listen in weekly for a quick digest</p>
-        </div>
-        <div class="col l4 s12 center">
-          <i class="large material-icons">import_contacts</i>
-          <h3>Come, Follow Me</h3>
-          <p>Each week i will break down the lesson from "Come, Follow Me - For Individuals and Families" i hope it helps you in your studying. if not, it is definitely helping me. </p>
-        </div>
-        <div class="col l4 s12 center">
-          <i class="large material-icons">mic</i>
-          <h3>Interviews</h3>
-          <p>There are so many members of the Church of Jesus Christ of Latter-day Saints with amazing, faith promoting stories. tune it to hear how they made it through tough times, and what they do to keep their faith.</p>
-        </div>
-      </div>
-      <div class="container center">
-        <p> This is a work in progress. Please bear with me while i decide what this will look like eventually. </p>
-      </div>
-
-      <!--javascript at end of body for optimized loading-->
-      <script type="text/javascript" src="js/materialize.min.js">
-      </script>
-    </body>
       <div class="container">
-      © 2018 copyright
-      </div>
-    </div>
-  </footer> -->
-
-
+        <h1> Episodes </h1>
+      </div
+      <!--JavaScript at end of body for optimized loading-->
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+    </body>
   </html>
