@@ -49,5 +49,18 @@
       <pubDate>Mon, 31 Dec 2018 22:15:06 GMT</pubDate>
       <enclosure url="http://ibelieveinchrist.net/episodes/E01.Genesis.and.Learning.mp3" length="0" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>
+        <![CDATA[Episode 02 - Be it unto Me, according to Thy Word]]>
+      </title>
+      <itunes:author>Conrad Southworth</itunes:author>
+      <description>
+        <![CDATA[The Church of Jesus Christ of Latter-day Saints releases a statement on Temples, announces new missions and I continue with the next lesson in the Come, Follow Me manual. After all that, more of Marianne Muthreich Southworth's story from Germany. ]]>
+      </description>
+      <link>https://s3-us-west-2.amazonaws.com/ibelieveinchrist.net/episodes/E02.Be.It.Unto.Me.mp3</link>
+      <guid isPermaLink="true">https://s3-us-west-2.amazonaws.com/ibelieveinchrist.net/episodes/E02.Be.It.Unto.Me.mp3</guid>
+      <pubDate>Mon, 07 Jan 2019 14:00:00 GMT</pubDate>
+      <enclosure url="https://s3-us-west-2.amazonaws.com/ibelieveinchrist.net/episodes/E02.Be.It.Unto.Me.mp3" length="0" type="audio/mgpe"/>
+    </item>
   </channel>
 </rss>
